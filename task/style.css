@@ -1,0 +1,21 @@
+body {
+	font:14px "Verdana",Georgia,sans-serif;color:#d0e0e3;background:#76a5af; 
+}
+.wrapper {
+	width:960px;margin:0 auto;padding-bottom:40px;overflow:hidden
+}
+.main{width:100%;background:#fff;overflow:hidden}
+.header p.logo{
+	float:right;padding:30px 0 10px 30px;font-size:50px;font-weight:700;line-height:1.2em;letter-spacing:-1px;color:#FFF;
+	background:"img/back.png"
+}
+.content {width:928px;margin:0 auto;padding:15px}
+img{width:50%;height:50%;padding-right:10px}
+ul {list-style-type:square; color:black}
+.left__side{float:left;padding:0 0 10px 15px}
+.left__side h3{font-size:1em;letter-spacing:-1px;text-transform:uppercase; color:#76a5af}
+.left__side p{line-height:2; color: black}
+.right__side{float:right;width:400px;padding-bottom:20px;padding-top:20px}
+.box{margin-bottom:20px;padding:7px;background:#b5dee7}
+.box h4{padding-left:15px;font-size:1.5em;line-height:2em;color:#FFF;background:#5D9EBD;border:1px solid #5692AE}
+.box2 p{padding:20px 15px;line-height:2}
